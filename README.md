@@ -24,7 +24,7 @@
 <h2 align="center"> Find out more about <img src="https://media.giphy.com/media/fZ83aZhAhTfIMErtCm/giphy.gif" width="80"> and my <img src="https://media.giphy.com/media/qPTyrrtmmjbjZtmSJG/giphy.gif" width="80">:</h2>
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/patryknowak1990/">
+  <a href="https://www.linkedin.com/in/gheorghe-slicari-256225249/">
     <img width="5%" height="5%" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
   </a>
 </p>
