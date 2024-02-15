@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome Traveler, I'm Patryk! 
+<h1 align="center"> Welcome Traveler, I'm George! 
   <img src="https://media.giphy.com/media/Q5G7H7HR1aaMb0wQr5/giphy.gif" width="50">
 </h1>
 
