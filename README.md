@@ -1,8 +1,9 @@
                                                                 Welcome Traveler, I'm George! 
-<a href="https://camo.githubusercontent.com/072f89ea351acd67b6343d152c7e1f60a53d24c0a81975e9ff475254cf521549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f323642527458497376314d6f644b7245342f67697068792e676966">
+<a href="https://camo.githubusercontent.com/072f89ea351acd67b6343d152c7e1f60a53d24c0a81975e9ff475254cf521549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f323642527458497376314d6f644b7245342f67697068792e676966"></a>
   <h1>World Bigge</h1>
   <img src="https://cdn.pixabay.com/photo/2015/04/19/08/32/rose-729509_640.jpg"/>
-<!--
+
+                                                                        <a href="https://camo.githubusercontent.com/923d926f6ab7a8a49bd0626b46ed0640d5d428f4ed3788697016bfbf962bab19/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51354737483748523161614d6230775172352f67697068792e676966"</a>
 **ghitalog/ghitalog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
