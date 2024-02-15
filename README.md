@@ -1,5 +1,7 @@
                                                                 Welcome Traveler, I'm George! 
 <a href="https://camo.githubusercontent.com/072f89ea351acd67b6343d152c7e1f60a53d24c0a81975e9ff475254cf521549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f323642527458497376314d6f644b7245342f67697068792e676966">
+  <h1>World Bigge</h1>
+  <img src="https://cdn.pixabay.com/photo/2015/04/19/08/32/rose-729509_640.jpg"/>
 <!--
 **ghitalog/ghitalog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
