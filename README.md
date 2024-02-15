@@ -1,5 +1,5 @@
                                                                 Welcome Traveler, I'm George! 
-
+https://camo.githubusercontent.com/072f89ea351acd67b6343d152c7e1f60a53d24c0a81975e9ff475254cf521549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f323642527458497376314d6f644b7245342f67697068792e676966
 <!--
 **ghitalog/ghitalog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
