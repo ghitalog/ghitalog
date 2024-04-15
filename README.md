@@ -59,7 +59,7 @@
     <img align="left" alt="Ubuntu" width="95px" src="https://img.shields.io/badge/Ubuntu-FFFFFF?style=for-the-badge&logo=ubuntu&logoColor=E75C25" />
     <br/>
     <h1 align="center"></h1>
-    <img align="left" alt="HTML5" width="85px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="left" alt="JAVA" width="85px" src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://lh4.googleusercontent.com/proxy/MPDczfUG_eUwDvnDVJoED8Ei9e84ZfXvYW0622tACW2FWiWy5dz-8o4ixZcz9nIS9NfeskInJ6BoOUB1zG24hIH-WsXoJS41jtwLwNrQeBcyvVylr0BDCGKunUVtLA)" />
     <img align="left" alt="CSS3" width="75px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="left" alt="JavaScript" width="125px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="left" alt="React" width="86px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
