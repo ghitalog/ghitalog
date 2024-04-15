@@ -42,8 +42,11 @@
 <h2 align="center">Programmers are made, not born!</h2>
 <br/>
 - ⚡ I am currently working on some projects in web-dev
+<br/>
 - 📌 And I am currently learning some stuff related to devops, networking and a bit of game-dev
+<br/>
 - ✅ Projects, which I have finished or I'm not currently working on: [Network](https://github.com/Ledaryy/Simple-twitter), [CS50 projects](https://github.com/Ledaryy/CS50-projects)
+<br/>
 - ✏️ You can reach me on: <a href="mailto:gheorgheslicari@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br/>
 <h1 align="center">My Tools</h1>
