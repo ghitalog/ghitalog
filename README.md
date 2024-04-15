@@ -77,6 +77,8 @@
     <img align="left" alt="Postman" width="100px" src="https://img.shields.io/badge/postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=FF6C37" />
     <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
+<br/>
+<br/>
 <h3 align="center">Some statistics</h3>
 <!-- 
 <p align="center">
