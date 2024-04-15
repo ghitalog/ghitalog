@@ -45,11 +45,11 @@
 <br/>
 - 📌 And I am currently learning some stuff related to devops, networking and a bit of game-dev
 <br/>
-- ✅ Projects, which I have finished or I'm not currently working on: [Network](https://github.com/Ledaryy/Simple-twitter), [CS50 projects](https://github.com/Ledaryy/CS50-projects)
+- ✅ Projects, which I have finished or I'm not currently working on: [CS50 projects](https://github.com/Ledaryy/CS50-projects)
 <br/>
 - ✏️ You can reach me on: <a href="mailto:gheorgheslicari@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br/>
-  <h1 align="center">My Tools</h1>
+  <h1 align="left">My Tools</h1>
     <img align="center" alt="Python" width="96px" src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=blue" />
     <img align="left" alt="Django" width="96px" src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white"/>
     <img align="left" alt="PostgreSQL" width="120px" src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white"/>
