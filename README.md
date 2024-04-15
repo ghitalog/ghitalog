@@ -50,13 +50,13 @@
 - ✏️ You can reach me on: <a href="mailto:gheorgheslicari@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <br/>
   <h1 align="center">My Tools</h1>
-    <img align="right" alt="Python" width="96px" src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=blue" />
-    <img align="right" alt="Django" width="96px" src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white"/>
-    <img align="right" alt="PostgreSQL" width="120px" src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img align="right" alt="Docker" width="95px" src="https://img.shields.io/badge/Docker-F7F7F7?style=for-the-badge&logo=docker&logoColor=099CEC" />
-    <img align="right" alt="AWS" width="75px" src="https://img.shields.io/badge/AWS-232F3F?style=for-the-badge&logo=amazon-AWS&logoColor=FF9800" />
-    <img align="right" alt="Azure" width="85px" src="https://img.shields.io/badge/Azure-FFFFFF?style=for-the-badge&logo=microsoftazure&logoColor=0085CF" />
-    <img align="right" alt="Ubuntu" width="95px" src="https://img.shields.io/badge/Ubuntu-FFFFFF?style=for-the-badge&logo=ubuntu&logoColor=E75C25" />
+    <img align="center" alt="Python" width="96px" src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=blue" />
+    <img align="center" alt="Django" width="96px" src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white"/>
+    <img align="center" alt="PostgreSQL" width="120px" src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img align="center" alt="Docker" width="95px" src="https://img.shields.io/badge/Docker-F7F7F7?style=for-the-badge&logo=docker&logoColor=099CEC" />
+    <img align="center" alt="AWS" width="75px" src="https://img.shields.io/badge/AWS-232F3F?style=for-the-badge&logo=amazon-AWS&logoColor=FF9800" />
+    <img align="center" alt="Azure" width="85px" src="https://img.shields.io/badge/Azure-FFFFFF?style=for-the-badge&logo=microsoftazure&logoColor=0085CF" />
+    <img align="center" alt="Ubuntu" width="95px" src="https://img.shields.io/badge/Ubuntu-FFFFFF?style=for-the-badge&logo=ubuntu&logoColor=E75C25" />
     <br/>
     <h1 align="center"></h1>
     <img align="left" alt="HTML5" width="85px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
